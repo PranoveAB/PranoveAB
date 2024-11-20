@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there! 👋
 
+
+### Dev ☕
+[![Top Langs](https://github-readme-stats-three-self-29.vercel.app/api/top-langs/?username=PranoveAB&theme=radical&show_icons=true&layout=compact&langs_count=8)](https://github.com/PranoveAB/github-readme-stats)
+
+### Stats ✨
+![Pranove's GitHub stats](https://github-readme-stats-three-self-29.vercel.app/api?username=PranoveAB&show_icons=true&theme=radical&count_private=true)
 <!--
 **PranoveAB/PranoveAB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
